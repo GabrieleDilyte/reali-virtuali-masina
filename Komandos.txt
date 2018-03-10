@@ -1,0 +1,4 @@
+ADD 2 3
+PUSH 5
+POP
+SUB 8 6 
